@@ -8,6 +8,12 @@ theme:
 
 extra:
   homepage: http://lekalepin.fr/
+  generator: false  
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/lafabrikmdl
 
 nav:
   - Accueil: index.md
+
+copyright: Association La Fabrik
