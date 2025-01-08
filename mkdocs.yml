@@ -1,0 +1,7 @@
+site_name: FAQ du Kalepin
+theme:
+  name: 'material'
+  language: fr
+
+nav:
+  - Accueil: index.md
