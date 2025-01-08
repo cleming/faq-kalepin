@@ -1,7 +1,13 @@
-site_name: FAQ du Kalepin
+site_name: Documentation du Kalepin
 theme:
   name: 'material'
+  logo: assets/logo.png
   language: fr
+  palette:
+    primary: lime
+
+extra:
+  homepage: http://lekalepin.fr/
 
 nav:
   - Accueil: index.md
