@@ -42,12 +42,6 @@ Si votre groupe existe déjà, parce qu'il a été créer par un autre membre de
 
 > Important : Vous pouvez créer à partir d’un seul compte individuel des événements pour plusieurs groupes différents (Bibliothèque X et Collectif Y).
 
-## POUR LES ADMINISTRATEURS DE GROUPES :  APPROUVER UN NOUVEAU MEMBRE DANS LE GROUPE :
-- Une fois connecté, cliquez sur _Mes Groupes_ 
-- Cliquez sur le groupe concerné
-- Cliquez sur  _Ajouter/Supprimer_ sous _Membres_
-- Approuver ou rejeter les membres en attente d’être approuvé
-
 ## AJOUTER VOTRE ÉVENEMENT
 Vous allez ajouter un événement organisé par votre association :
 - Cliquez en haut sur _Mes Evenements_ puis sur _Créer un événement_
@@ -62,3 +56,10 @@ Vous allez ajouter un événement organisé par votre association :
  -  site internet de l’association ou de l’événement
 - Une fois arrivé là, vous avez _l’organisateur·ices_ qui apparait : c’est à ce moment que vous allez reliez votre événement à votre association en cliquant sur _Modifier_ puis en sélectionnant le _groupe_ c’est à dire votre asso ou collectif...
 - Dans les métadonnées, vous pouvez ajouter un lien de billetterie (tapez billet... sous _trouver ou ajouter un élément_) et tout un tas d’autres modules complémentaires (vidéo youtube, infos d’accessibilité, sondage, programme de la soirée, etc...). Les autres options en dessous ne sont pas nécéssaire. 
+
+## APPROUVER UN NOUVEAU MEMBRE DANS LE GROUPE
+Cette option concerne les administrateur de groupes
+- Une fois connecté, cliquez sur _Mes Groupes_ 
+- Cliquez sur le groupe concerné
+- Cliquez sur  _Ajouter/Supprimer_ sous _Membres_
+- Approuver ou rejeter les membres en attente d’être approuvé
