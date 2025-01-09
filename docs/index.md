@@ -11,4 +11,4 @@ Pour cela, chaque utilisateur doit se créer :
 * un «groupe» attaché à votre compte personnel qui correspond à votre organisation, association, collectivité, auquel pourront être rattacher d’autres comptes personnels. Ainsi, plusieurs bénévoles peuvent créer des événements différents pour la même association (_groupe_)
 
 
-![Image de démo](assets/thisisfine.png) 
+
