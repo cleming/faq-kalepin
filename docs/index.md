@@ -26,12 +26,12 @@ Première chose à faire : créer ou rejoindre votre organisation (association, 
 ## CRÉER VOTRE "GROUPE" (ASSO, COLLECTIF, etc...) 
 Si vous créer votre groupe sur le Kalepin :
 
-1. Cliquez sur _Mes Groupes_ en haut puis _Créer un groupe_
-2. Indiquez le nom de votre association/structure dans _Nom d’Affichage du Groupe_ par exemple _La Fabrik_
-3. Indiquez le nom type _identifiant_ de votre asso (donc sans espaces) : vous pouvez enlever les tirets bas pour une meilleure lecture.
-4. Indiquez si vous le souhaitez la description, l’adresse de l'association, l’avatar et la banière (images de l’asso)
-5. Vous n’avez pas besoin de modifier la visibilité et les nouveaux membres.
-6. Cliquez sur _Créer mon Groupe_
+* Cliquez sur _Mes Groupes_ en haut puis _Créer un groupe_
+* Indiquez le nom de votre association/structure dans _Nom d’Affichage du Groupe_ par exemple _La Fabrik_
+* Indiquez le nom type _identifiant_ de votre asso (donc sans espaces) : vous pouvez enlever les tirets bas pour une meilleure lecture.
+* Indiquez si vous le souhaitez la description, l’adresse de l'association, l’avatar et la banière (images de l’asso)
+* Vous n’avez pas besoin de modifier la visibilité et les nouveaux membres.
+* Cliquez sur _Créer mon Groupe_
 
 Votre groupe est crée. L’adresse URL qui apparait permet à toutes et tous de vous retrouver et de vous rejoindre, et vos événements apparaitront aussi sur cette page.
 
@@ -50,19 +50,20 @@ Vous allez ajouter un événement organisé par votre association :
 
 1. Cliquez en haut sur _Mes Evenements_ puis sur _Créer un événement_
 2. Remplissez toutes les informations :
- *  image à la une (très important pour une meilleure visibilité, évitez les images avec du texte à l’intérieur, privilégiez les photos brutes),
- *  titre
- *  catégorie
- *  «tag» pour apporter plus de détails
- *  heure de début (l’heure de fin n’est pas obligatoire)
- *  adresse de l’événement
- *  description
- *  site internet de l’association ou de l’événement
+  *  image à la une (très important pour une meilleure visibilité, évitez les images avec du texte à l’intérieur, privilégiez les photos brutes),
+  *  titre
+  *  catégorie
+  *  «tag» pour apporter plus de détails
+  *  heure de début (l’heure de fin n’est pas obligatoire)
+  *  adresse de l’événement
+  *  description
+  *  site internet de l’association ou de l’événement
 3. Une fois arrivé là, vous avez _l’organisateur·ices_ qui apparait : c’est à ce moment que vous allez reliez votre événement à votre association en cliquant sur _Modifier_ puis en sélectionnant le _groupe_ c’est à dire votre asso ou collectif...
 4. Dans les métadonnées, vous pouvez ajouter un lien de billetterie (tapez billet... sous _trouver ou ajouter un élément_) et tout un tas d’autres modules complémentaires (vidéo youtube, infos d’accessibilité, sondage, programme de la soirée, etc...). Les autres options en dessous ne sont pas nécéssaire. 
 
 ## APPROUVER UN NOUVEAU MEMBRE DANS LE GROUPE
 Cette option concerne les administrateur de groupes
+
 * Une fois connecté, cliquez sur _Mes Groupes_ 
 * Cliquez sur le groupe concerné
 * Cliquez sur  _Ajouter/Supprimer_ sous _Membres_
