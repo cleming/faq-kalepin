@@ -24,12 +24,14 @@ Première chose à faire : créer ou rejoindre votre organisation (association, 
 
 ## CRÉER VOTRE "GROUPE" (ASSO, COLLECTIF, etc...) 
 Si vous créer votre groupe sur le Kalepin :
+
 - Cliquez sur _Mes Groupes_ en haut puis _Créer un groupe_
 - Indiquez le nom de votre association/structure dans _Nom d’Affichage du Groupe_ par exemple _La Fabrik_
 - Indiquez le nom type _identifiant_ de votre asso (donc sans espaces) : vous pouvez enlever les tirets bas pour une meilleure lecture.
 - Indiquez si vous le souhaitez la description, l’adresse de l'association, l’avatar et la banière (images de l’asso)
 - Vous n’avez pas besoin de modifier la visibilité et les nouveaux membres.
 - Cliquez sur _Créer mon Groupe_
+
 Votre groupe est crée. L’adresse URL qui apparait permet à toutes et tous de vous retrouver et de vous rejoindre, et vos événements apparaitront aussi sur cette page.
 
 ## REJOINDRE UN GROUPE EXISTANT
@@ -44,6 +46,7 @@ Si votre groupe existe déjà, parce qu'il a été créer par un autre membre de
 
 ## AJOUTER VOTRE ÉVENEMENT
 Vous allez ajouter un événement organisé par votre association :
+
 - Cliquez en haut sur _Mes Evenements_ puis sur _Créer un événement_
 - Remplissez toutes les informations :
  -  image à la une (très important pour une meilleure visibilité, évitez les images avec du texte à l’intérieur, privilégiez les photos brutes),
