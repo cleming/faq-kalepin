@@ -52,7 +52,7 @@ Si votre groupe existe déjà, parce qu’il a été créé par un autre membre 
 5. L’administrateur de votre groupe doit maintenant approuver votre intégration au groupe.
 
 !!! warning "Important"
-    Vous pouvez créer, à partir d’un seul compte individuel, des événements pour plusieurs groupes différents (ex. Bibliothèque X et Collectif Y).
+    À partir d’un seul compte individuel, vous pouvez créer des événements pour plusieurs groupes différents (ex. Bibliothèque X et Collectif Y).
 
 ## AJOUTER VOTRE ÉVÉNEMENT
 
