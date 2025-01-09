@@ -6,7 +6,8 @@ Le Kalepin est un projet porté par l'association [La Fabrik](https://lafabrik-m
 
 ## PREMIERE UTILISATION
 Dans cette nouvelle version du Kalepin, nous distinguons les individus (nommé _utilisateurs_) et les associations, collectivité, collectif (nommé _groupes_)  
-Pour cela, chaque utilisateur doit se créer : 
+Pour cela, chaque utilisateur doit se créer :
+
 * un compte personnel _(même si vous en aviez déjà un sur localev)_
 * un «groupe» attaché à votre compte personnel qui correspond à votre organisation, association, collectivité, auquel pourront être rattacher d’autres comptes personnels. Ainsi, plusieurs bénévoles peuvent créer des événements différents pour la même association (_groupe_)
 
@@ -36,33 +37,33 @@ Votre groupe est crée. L’adresse URL qui apparait permet à toutes et tous de
 
 ## REJOINDRE UN GROUPE EXISTANT
 Si votre groupe existe déjà, parce qu'il a été créer par un autre membre de l'association, vous pouvez rejoindre le groupe déjà créé :
-- Rendez-vous dans la recherche en cliquant sur groupes : [https://lekalepin.fr/search](https://lekalepin.fr/search)
-- Cliquez sur _Groupes_ en dessous de la recherche. Vous voyez apparaitre l’ensemble des groupes.
-- Cliquez sur votre _Groupes_ (votre association, etc...) dans la liste
-- Cliquez sur _Suivre_ puis sur _Rejoindre_.
-- L’administrateur de votre groupe doit maintenant approuver votre intégration au groupe
+* Rendez-vous dans la recherche en cliquant sur groupes : [https://lekalepin.fr/search](https://lekalepin.fr/search)
+* Cliquez sur _Groupes_ en dessous de la recherche. Vous voyez apparaitre l’ensemble des groupes.
+* Cliquez sur votre _Groupes_ (votre association, etc...) dans la liste
+* Cliquez sur _Suivre_ puis sur _Rejoindre_.
+* L’administrateur de votre groupe doit maintenant approuver votre intégration au groupe
 
 > Important : Vous pouvez créer à partir d’un seul compte individuel des événements pour plusieurs groupes différents (Bibliothèque X et Collectif Y).
 
 ## AJOUTER VOTRE ÉVENEMENT
 Vous allez ajouter un événement organisé par votre association :
 
-- Cliquez en haut sur _Mes Evenements_ puis sur _Créer un événement_
-- Remplissez toutes les informations :
- -  image à la une (très important pour une meilleure visibilité, évitez les images avec du texte à l’intérieur, privilégiez les photos brutes),
- -  titre
- -  catégorie
- -  «tag» pour apporter plus de détails
- -  heure de début (l’heure de fin n’est pas obligatoire)
- -  adresse de l’événement
- -  description
- -  site internet de l’association ou de l’événement
-- Une fois arrivé là, vous avez _l’organisateur·ices_ qui apparait : c’est à ce moment que vous allez reliez votre événement à votre association en cliquant sur _Modifier_ puis en sélectionnant le _groupe_ c’est à dire votre asso ou collectif...
-- Dans les métadonnées, vous pouvez ajouter un lien de billetterie (tapez billet... sous _trouver ou ajouter un élément_) et tout un tas d’autres modules complémentaires (vidéo youtube, infos d’accessibilité, sondage, programme de la soirée, etc...). Les autres options en dessous ne sont pas nécéssaire. 
+* Cliquez en haut sur _Mes Evenements_ puis sur _Créer un événement_
+* Remplissez toutes les informations :
+ *  image à la une (très important pour une meilleure visibilité, évitez les images avec du texte à l’intérieur, privilégiez les photos brutes),
+ *  titre
+ *  catégorie
+ *  «tag» pour apporter plus de détails
+ *  heure de début (l’heure de fin n’est pas obligatoire)
+ *  adresse de l’événement
+ *  description
+ *  site internet de l’association ou de l’événement
+* Une fois arrivé là, vous avez _l’organisateur·ices_ qui apparait : c’est à ce moment que vous allez reliez votre événement à votre association en cliquant sur _Modifier_ puis en sélectionnant le _groupe_ c’est à dire votre asso ou collectif...
+* Dans les métadonnées, vous pouvez ajouter un lien de billetterie (tapez billet... sous _trouver ou ajouter un élément_) et tout un tas d’autres modules complémentaires (vidéo youtube, infos d’accessibilité, sondage, programme de la soirée, etc...). Les autres options en dessous ne sont pas nécéssaire. 
 
 ## APPROUVER UN NOUVEAU MEMBRE DANS LE GROUPE
 Cette option concerne les administrateur de groupes
-- Une fois connecté, cliquez sur _Mes Groupes_ 
-- Cliquez sur le groupe concerné
-- Cliquez sur  _Ajouter/Supprimer_ sous _Membres_
-- Approuver ou rejeter les membres en attente d’être approuvé
+* Une fois connecté, cliquez sur _Mes Groupes_ 
+* Cliquez sur le groupe concerné
+* Cliquez sur  _Ajouter/Supprimer_ sous _Membres_
+* Approuver ou rejeter les membres en attente d’être approuvé
