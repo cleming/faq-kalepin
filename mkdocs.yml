@@ -17,3 +17,8 @@ nav:
   - Accueil: index.md
 
 copyright: Association La Fabrik
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
