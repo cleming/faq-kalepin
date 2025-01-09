@@ -12,7 +12,7 @@ Pour cela, chaque utilisateur doit se créer :
 
 ## CREER VOTRE COMPTE
 Chaque utilisateur doit se créer un compte personnel (même si vous en aviez déjà un sur localev).   
-Pour cela, rendez-vous sur le site du Kalepin : [https://lekalepin.fr](https://lekalepin.fr) , et cliquez sur _ s’inscrire_ en haut à droite pour créer votre compte.
+Pour cela, rendez-vous sur le site du Kalepin : [https://lekalepin.fr](https://lekalepin.fr) , et cliquez sur _s’inscrire_ en haut à droite pour créer votre compte.
 
 - Rentrer votre mail et créer votre mot de passe pour le Kalepin, cliquez sur _J’accepte les règles..._ puis sur _Créer un compte_.
 - Rentrer votre pseudonyme (votre prénom et le nom de votre organisation par exemple _Mathilde - La Fabrik_. Votre identifiant se crée automatiquement, vous pouvez le modifier. Vous n’êtes pas obligé de remplir la courte biographie. Cliquez sur _Créer mon profil_
