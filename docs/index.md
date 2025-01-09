@@ -26,7 +26,7 @@ Pour cela, rendez-vous sur le site du Kalepin : [https://lekalepin.fr](https://l
 De retour sur [https://lekalepin.fr](https://lekalepin.fr), vous pouvez vous connecter en cliquant sur _Se connecter_ en haut à droite.
 Entrez votre mail et le mot de passe choisi précédemment. Vous arrivez alors sur la page d’accueil.
 
-Première chose à faire : créer ou rejoindre votre organisation (association, collectif, collectivité) sur le Kalepin.
+Première chose à faire : créer ou rejoindre votre organisation (association, collectif, collectivité) qui sera sous la forme d'une groupe sur le Kalepin. Pour cela deux options possibles : créer votre groupe, ou demander à le rejoindre s'il a déjà été créé. Voir comment faire ci-dessous.
 
 ## CRÉER VOTRE « GROUPE » (ASSO, COLLECTIF, ETC.)
 
@@ -53,6 +53,9 @@ Si votre groupe existe déjà, parce qu’il a été créé par un autre membre 
 
 !!! warning "Important"
     À partir d’un seul compte individuel, vous pouvez créer des événements pour plusieurs groupes différents (ex. Bibliothèque X et Collectif Y).
+
+N'hésitez pas à rejoindre les groupes dans lequels vous pouvez être amené à ajouter des événements.
+
 
 ## AJOUTER VOTRE ÉVÉNEMENT
 
