@@ -45,7 +45,7 @@ Votre groupe est créé. L’adresse URL qui apparaît permet à toutes et tous 
 
 Si votre groupe existe déjà, parce qu’il a été créé par un autre membre de l’association, vous pouvez rejoindre ce groupe :
 
-1. Rendez-vous dans la recherche en cliquant sur [Groupes](https://lekalepin.fr/search).
+1. Rendez-vous dans la recherche en cliquant sur [Groupes](https://lekalepin.fr/search?lat=45.6812349&lon=4.4782606&locationName=Aveize&eventPage=1&distance=10_km&contentType=GROUPS&groupPage=1).
 2. Cliquez sur _Groupes_ en dessous de la barre de recherche. Vous voyez apparaître l’ensemble des groupes.
 3. Cliquez sur votre _Groupe_ (votre association, etc.) dans la liste.
 4. Cliquez sur _Suivre_, puis sur _Rejoindre_.
