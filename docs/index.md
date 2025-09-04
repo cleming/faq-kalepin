@@ -15,11 +15,8 @@ Pour cela, chaque utilisateur doit se créer :
 ## CRÉER VOTRE COMPTE
 
 Chaque utilisateur doit se créer un compte personnel (même si vous en aviez déjà un sur localev).
-Pour cela, rendez-vous sur le site du Kalepin : [https://lekalepin.fr](https://lekalepin.fr), et cliquez sur _S’inscrire_ en haut à droite pour créer votre compte.
-
-1. Entrez votre adresse e-mail et créez votre mot de passe pour le Kalepin. Cliquez sur _J’accepte les règles..._ puis sur _Créer un compte_.
-2. Entrez votre pseudonyme (par exemple votre prénom et le nom de votre organisation : _Mathilde - La Fabrik_). Votre identifiant se crée automatiquement, vous pouvez le modifier. Vous n’êtes pas obligé de remplir la courte biographie. Cliquez ensuite sur _Créer mon profil_.
-3. Allez sur votre boîte mail et ouvrez le mail intitulé : _Instructions pour confirmer votre compte Mobilizon sur Le Kalepin_ (provenant de l’adresse mobilizon@lekalepin.fr).  Pensez à vérifier vos spams. Cliquez sur _Activer mon compte_.
+Pour cela, envoyez-nous un mail à info@lafabrik-moly.fr, nous créerons votre compte. 
+Allez ensuite sur votre boîte mail et ouvrez le mail intitulé : _Instructions pour confirmer votre compte Mobilizon sur Le Kalepin_ (provenant de l’adresse mobilizon@lekalepin.fr).  Pensez à vérifier vos spams. Cliquez sur _Activer mon compte_.
 
 ## CONNEXION À VOTRE COMPTE
 
